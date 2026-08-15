@@ -4,6 +4,10 @@
 
 **Live:** [gentleman4u.vercel.app](https://gentleman4u.vercel.app)
 
+<p align="center">
+  <img src="assets/preview.webp" alt="gentleman4u — the live site" width="100%">
+</p>
+
 4MEN sells watches, rings, sunglasses, belts, bracelets, hats and poker sets in Israel. 17 HTML pages, 17 products across 7 categories, `HTML` + `CSS` + `JavaScript` — no framework, no build step — on `Vercel`, with `GSAP` motion over a Liquid Glass design system. The source repo is private; this page describes how it works.
 
 ## Running a storefront, a checkout and an admin panel with no server
